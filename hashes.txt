@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Deseo en tus labios
+
+This log tracks the cryptographic history and versioning for the song **Deseo en tus labios** (deseo-en-tus-labios).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T04:43:38.526582 | `v1` | `48101048bd4f89a8cc11826ad1944269fc15fcec590225c7df917d928d46cc02` | `be7a3055072d9c1c2c73df970024b271d0414482e4f2e8a3c0df1fe56f2ea535` | `2026-06-21_deseo-en-tus-labios-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deseo-en-tus-labios/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Deseo en tus labios](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-en-tus-labios/) |
+| **Get License** | [Commercial Licensing for Deseo en tus labios](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-en-tus-labios/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `48101048bd4f89a8cc11826ad1944269fc15fcec590225c7df917d928d46cc02` |
 | **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
